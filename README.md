@@ -35,10 +35,31 @@ Aprender o básico sobre contribuição no GitHub.
         </a>
       </td>
     </tr>
-    <tr>
-      <td>02</td>
-      <td>Formas de Contribuir num Projeto Open Source</td>
-      <td align="center">
+
+  ## Convenção de Commits
+      
+ Tipo de Commit                 |       Descrição
+
+
+ "feat"                         | Adiciona uma nova funcionalidade ao Projeto.                                           
+
+ "fix"                          | Corrige bugs ou problemas.                                                             
+
+ "docs"                         |Altera documentação do Projeto. Ex.: README, comentários no códigos.                   
+
+ "style"                        |Realiza mudanças na aparençia, sem alterar a funcionalidade.                           
+
+ "refactor"                     |Realiza mudanças ao codigo que não alteram a funcionalidade.                           
+
+ "test"                            Adiciona ou modifica teste no projeto.                                                 
+
+
+## Referencias
+- [ANGULAR. Contributing to Angular](http://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
+- [CONVENTIONAL COMMITS. Summary](http://www.conventionalcommits.org/en/v1.0.0/)
+- [GITHUB. Configurar diretrizes para os contribuintes do repositórios](http://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-repository-contributora)
+  
+      
         <a href="">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
