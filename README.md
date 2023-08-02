@@ -58,16 +58,16 @@ Aprender o básico sobre contribuição no GitHub.
 - [ANGULAR. Contributing to Angular](http://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
 - [CONVENTIONAL COMMITS. Summary](http://www.conventionalcommits.org/en/v1.0.0/)
 - [GITHUB. Configurar diretrizes para os contribuintes do repositórios](http://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-repository-contributora)
-  
-      
-        <a href="">
+
+
+  <a href="">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>
     </tr>
     <tr>
       <td>03</td>
-      <td>Desenvolvendo e Enviando uma Contribuição</td>
+   <td>Desenvolvendo e Enviando uma Contribuição</td>
       <td align="center">
         <a href="">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
